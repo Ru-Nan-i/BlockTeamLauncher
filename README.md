@@ -11,7 +11,7 @@ Block Team 런처는 [HeliosLauncher](https://github.com/dscalzi/HeliosLauncher)
 - Release v2.1.0 +
 - Minecraft 1.14 +
 ### NeoForge API
-- 업데이트 예정
+- Release v3.0.0 +
 - Minecraft 1.21 +
 
 
